@@ -16,7 +16,6 @@ Hi! my name is Luiz Cruz and I have been solving problems and pain of people wit
 </br>
 </br>
 
-
 <div align="center">    
  <a href="https://github.com/Luiz-Cruz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiz-Cruz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,4 +32,5 @@ Hi! my name is Luiz Cruz and I have been solving problems and pain of people wit
   <a href="https://www.linkedin.com/in/luizcruzdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 </br>
+
 ![Snake animation](https://github.com/Luiz-Cruz/Luiz-Cruz/blob/output/github-contribution-grid-snake.svg)
